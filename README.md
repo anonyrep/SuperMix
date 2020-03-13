@@ -1,6 +1,6 @@
 # SuperMix: Supervising the Mixing Data Augmentation
 
-![](https://github.com/alldbi/KDA/blob/master/examples/fig1.png)
+![](https://github.com/anonyrep/supermix/blob/master/examples/fig1.png)
 
 <p></p>
 
@@ -34,7 +34,7 @@ python3 supermix.py --dataset imagenet --model resnet34 --save_dir ./outputdir -
 2. Sample outputs
 
 <p align="center"> 
-<img src="https://github.com/alldbi/KDA/blob/master/examples/imagenet.png">
+<img src="https://github.com/anonyrep/supermix/blob/master/examples/imagenet.png">
 </p>
 
 
@@ -56,7 +56,7 @@ python3 supermix.py --dataset cifar100 --model resnet110 --save_dir ./outputdir 
 3. Sample outputs
 
 <p align="center"> 
-<img src="https://github.com/alldbi/KDA/blob/master/examples/cifar100.png">
+<img src="https://github.com/anonyrep/supermix/blob/master/examples/cifar100.png">
 </p>
 
 ## Evaluating SuperMix for knowledge distillation and object classification
